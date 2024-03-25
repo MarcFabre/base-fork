@@ -7,6 +7,9 @@ export default {
     props: {
         content: { type: Object, required: true },
     },
+    mounted(){
+        console.log("FORKED BASE 1");
+    }
 };
 </script>
 
