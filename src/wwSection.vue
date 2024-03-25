@@ -8,7 +8,7 @@ export default {
         content: { type: Object, required: true },
     },
     mounted(){
-        console.log("FORKED BASE 1");
+        console.log("FORKED BASE 2");
     }
 };
 </script>
